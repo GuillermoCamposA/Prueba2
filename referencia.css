@@ -1,11 +1,21 @@
 h1{
     text-align: center;
+    background-color: yellow;
 }
 
 h2{
     text-align: center;
+    background-color: yellow;
 }
 
 body{
-    background-color: yellow;
+    background-color: black;
+}
+
+img{
+    height:400px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
 }
